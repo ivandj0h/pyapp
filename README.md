@@ -34,3 +34,31 @@ Note : make sure to install python-pip
     python ./manage.py startapp blog
 
   ```
+
+  Note : you can add .gitignore file if you want to upload it into Git.
+
+# The Folder Structure
+
+After setup project, now you can see this folder structure
+
+```
+      django-project/
+    |-- blog
+    |   |-- migrations
+    |   |   |-- __init_.py
+    |   |-- __init__.py
+    |   |-- admin.py
+    |   |-- apps.py
+    |   |-- models.py
+    |   |-- test.py
+    |   |-- views.py
+    |-- pyapp
+    |   |-- __init__.py
+    |   |-- asgi.py
+    |   |-- settings.py
+    |   |-- urls.py
+    |   |-- wsgi.py
+    |-- .gitignore
+    |-- db.sqlite3
+    |-- manage.py
+```
