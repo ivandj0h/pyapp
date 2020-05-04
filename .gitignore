@@ -1,1 +1,3 @@
-/__pycache__
+# unimportant files
+__pycache__/
+*.py[cod]
