@@ -62,3 +62,5 @@ After setup project, now you can see this folder structure
     |-- db.sqlite3
     |-- manage.py
 ```
+## Screenshoot
+![Dashboard](screenshoot/depan.png "This is the PYAPP's Captured")
